@@ -2,7 +2,7 @@
 
 Welcome to Zomata Bangalore EDA notebook
 
-You can download the dataset used in this notebook from [Kaggle](https://www.kaggle.com/himanshupoddar/zomato-bangalore-restaurants)
+You can download the dataset used in this notebook by clicking on [Link](https://www.kaggle.com/himanshupoddar/zomato-bangalore-restaurants)
 
 
 # About this dataset:
